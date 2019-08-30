@@ -1,0 +1,33 @@
+https://xd.adobe.com/view/0a5ea301-87a4-4eb4-7b7b-d48b5903b09a-7c6f/
+
+http://foodfella.net/Rentree/delete_ad.php?post_id=77 done
+
+http://foodfella.net/Rentree/edit_ad.php?name=abc&price=123&description=abc&deposit=4000&location=Karachi%20Pakistan&catid=1&userid=21&approveId=1&image=abc.png&post_id=77
+
+
+http://foodfella.net/Rentree/get_user_ads.php?user_id=21
+ done 
+
+http://foodfella.net/Rentree/get_ads_by_category.php?cat_id=12  done
+
+http://foodfella.net/Rentree/Product_detail.php?id=76
+ done
+http://foodfella.net/Rentree/post_favourites.php?user_id=23&post_id=76 done
+http://foodfella.net/Rentree/get_user_favourites.php?user_id=23 done
+
+
+http://foodfella.net/Rentree/Post_ad.php?name=abc&price=123&deposit=123&cnic=1234&description=abc&location=Karachi%20Pakistan&latitude=21.33&longitude=1.234&catid=12&userid=21&approveId=1&Image=abc.png
+
+http://foodfella.net/Rentree/Images/Ads_images/
+
+item_rent deposit catid user 
+
+fonts or filter
+
+?name=${TITLE}&price=${pricePerday}&deposit=${depoCnic}&cnic=${Cnics}&description=${DESCRIPTION}&location=${text}&latitude=${latitude}&longitude=${longitude}&catid=${language}&userid=${user_id}&Image[]=${images}
+
+youtube links
+
+https://www.youtube.com/results?search_query=react+native+expo+font+download
+https://www.youtube.com/watch?v=22LEiBYBiTw
+https://www.youtube.com/watch?v=Vl3CPNN788Q

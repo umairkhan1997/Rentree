@@ -1,0 +1,91 @@
+ chat ki length number  
+
+Imagename , Item_Name ,Item_Rent ,Location ,images ,data , Renter_Id ,Post_Id
+
+
+deete edit or post se all deals update and  done
+unlike on there  done
+favourite se post me jana hai done
+map ki location when its off at first time
+book ka button in itemshow page in small mobile done
+chat search done
+profile pic change done 
+
+1.Register p jake dubara login p ao to login nhi hota.
+
+2.Book krne me product koi location ap ki arahi hai map p jb k ani product dalne wale ki chahea.
+
+3. Agr me book krte huwe date na dalun to renting ka msg chala jata hai k i want to rent your product for 0 days.
+
+4. Profile me email, address waghera align nhi hai.
+
+5. Neche wale tab me icon highlight hona chahea gray  background wali cheez nhi.
+
+6. Categories se koi add open krn to wo open hona chahea hr product p zamzama wala page open ho raha hai.
+
+7. History me alignment sahi nhi hai
+
+
+
+
+
+
+
+Write slogan here on splash screen removed. // ye to usne kha tha karke dega
+ 
+
+ 2. Facebook google link up. 
+ 
+ 
+ 3. Slider icons highlight nhi horahe as we switch screen. // wo option nhi hai isme
+ 
+
+
+4. Pic crop nhi honi chahea full pic le gallery se camera.  // done
+
+5 Profile me hr cheez k age pencil icon dia hai but its not working.  // wo htana hai kueke edit ka 1 option hai  // done
+
+6 .Post adds me jo cnic or security deposit wali cheez hai wo ese ani chahea.
+
+Required:
+Cnic or security deposit.
+If cnic check kre to theek.
+If deposit kre to paise puche type krne k bad wo ajae.  // its same as given UI
+
+7 . Message wale me search nhi kr raha  //done
+8 .Categories me vehicle p click krne se app crash horahi hai  // done
+
+9 .Har jaga jahan input kr rahe ho text likha huwa hai random wo nhi hona chahe  /done
+
+11. Messaging p bhi alignment sahi nhi hai  /// ?
+
+15. Messages me the conversation flow is off. Yani konsa message kiska hai ye nhi pta chal raha  /// ?
+
+14. Pinning location on map kese chalega ?   ///auto current location get karha hai
+
+17. Favourites not working  /done
+
+16. Messages ne accepted press krne se request not accepted ka pop up araha hai or rejected chal hi nhi raha 
+
+18. Puri app ki alignment alag hain koi screen km gap se shuru horahi hai koi ziada from the left
+
+19. Categories se ya kisi or message se wapis ane k lie us back ka option hona chahea. // done
+
+22. History me rented borrowed me pic alignment sahi nhi. // done
+ 
+
+
+23. Posted adds doesnt show up   
+
+21. All deals me kisi add ko open kro to us me book k button ki alignment sahi nhi hai // done
+
+25. Scroll krne se rentree ka uper wala baar bhi scroll horaha hai // done
+
+24. Kisi add ko rent krne p jao to peche wali date ka option nhi hona chahea.// done
+
+31. Signup me screen k beech me hona chahea tha sara data wala part wo sahi se nhi aligned // done
+
+30. Na pic na voice recording ka option chal raha hai in messages. App crash horahi hai  // done
+
+33. Settings doesn't work  // rate app done and delete account left other are not define what to do 
+34. Burger menu me welcome taimoors likha huwa hai// done 

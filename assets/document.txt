@@ -1,0 +1,47 @@
+//LOGIN  //done
+http://itechnocode.com/Rentree/login.php?Email={email}&Password={password}
+
+//GET ITEM CATEGORIES //done
+http://foodfella.net/Rentree/adcategories
+
+//UPDATE ITEM CATEGORY
+http://itechnocode.com/Rentree/updatecat.php?id={category id}&name={category name}
+
+//DELETE ITEM CATEGORY
+http://itechnocode.com/Rentree/deletecat.php?id={category id}
+
+//GET APPROVAL STATUS
+http://itechnocode.com/Rentree/adstatus
+
+//ADD POST
+http://itechnocode.com/Rentree/Post_ad.php?name={name}&price={price}&deposit={deposit}&description={desc}&location={loc}&catid={category id}&userid={user id}&approveId=1&Image={images name concat by ','}
+
+//SINGLE AD DETAIL //done
+http://itechnocode.com/Rentree/addetail/{item id}
+
+//ALL ADS DETAIL //done
+http://itechnocode.com/Rentree/allads
+
+//SEARCH AD //done
+http://itechnocode.com/Rentree/searchad/{item name}
+
+//ADD CATAGORY
+http://itechnocode.com/Rentree/add_category.php?name={catagory name}
+
+//CAHNGE STATUS OF AD
+http://itechnocode.com/Rentree/updatestatus.php?id={AD id}&statusid={1=>available , 2=>Unavailable}
+
+//SET TIMELINE   //done
+http://itechnocode.com/Rentree/timeline.php?rid={user_id}&pid={ad id}&sdate={start date}&edate={end date}&price={}
+
+//GET DATA FOR TIMELINE AND HISTORY  //done
+http://itechnocode.com/Rentree/timeline/{user id}
+http://foodfella.net/Rentree/show_timeline.php?id=24
+
+http://foodfella.net/Rentree/postreview.php?userid={user id}&postid={post id}&rating={rating}&detail={details}&date={date}
+
+
+book page remove blue background 
+
+Sandbox account : sales-facilitator@wastelessfood.ca
+Client ID : ARh106_CA1AW884uMDEb5PS4Tc1G10yq0u95H3OTskO5EqUxks8cr4njtH4MMD7zx4jzaHINy-DD_jzy

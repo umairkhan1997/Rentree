@@ -1,0 +1,35 @@
+[9:28 PM, 7/5/2019] Sabi Office: UserName: foodfella
+| PassWord: *Bvv5k_0Lo&]
+[8:41 PM, 7/8/2019] Sabi Office: Route::post('/api/post/add-post', 'Api\PostController@post');
+	Route::post('/api/post/add-comment-post', 'Api\PostController@comment');
+	Route::post('/api/post/add-like-post', 'Api\PostController@like');
+	Route::post('/api/post/add-share-post', 'Api\PostController@share');
+	Route::post('/api/post/add-favourite-post', 'Api\PostController@favourite');
+	Route::post('/api/post/add-emojis-post', 'Api\PostController@emojis');
+	Route::get('/api/post/get-posts', 'Api\GetController@posts');
+	//Posts Routes End
+
+[8:42 PM, 7/8/2019] Sabi Office: http://digitalcodeeye.com/
+[8:53 PM, 7/8/2019] Sabi Office: http://digitalcodeeye.com/siktop/api/get/profile/1
+
+oute::post('/api/post/sign-up', 'Api\PostController@sign_up');
+	Route::post('/api/post/sign-in', 'Api\PostController@sign_in');
+
+
+
+
+Logo on app icon to be fixed to be full with no white in background 
+Logo on app load up to be clearer and correct size as it’s too stretched 
+People who upload jobs don’t need to log in. 
+Tab and layout not very good. Also would need a message tab and change peoples tab to home or something. 
+Would prefer post your on job on the same page as the logon start up page 
+Still need bugdet sheet for people to hire
+Still need photo page 
+Gps map for people to add job address 
+How do people attach a quote to someone’s job 
+The links for kitchens,bathrooms,living rooms,pools etc for people to upload there modern or newly done pics similar to The Houzz app as discussed 
+Colours on app would prefer to be the company colours which is same as logo ( black and green )
+
+Also I would like access to see members and jobs etc so I can delete them if not appropriate. But only on my end don’t want the public to be able to delete
+
+Also I’d like to be able to ad more trades in the categories
