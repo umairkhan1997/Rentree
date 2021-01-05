@@ -19,7 +19,7 @@
     "react-native-star-rating": "^1.1.0",
     "react-navigation": "^3.6.1",
     "@expo/vector-icons": "^9.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react-native-form-validator": "^0.2.0",
     "react-native-loading-spinner-overlay": "^1.0.1",
     "react-native-picker-select": "^6.3.0",
